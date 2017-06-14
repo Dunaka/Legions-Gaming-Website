@@ -21,7 +21,7 @@ p{
 }
 
 .logo {
-	display:block; width:auto; margin:0 auto;
+	display:block; margin:0 auto; max-width:100%;
 }
 
 .footer-blurb {
